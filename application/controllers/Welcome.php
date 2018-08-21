@@ -27,6 +27,7 @@ class Welcome extends CI_Controller {
 	    $e = '678';
 	    $f = '789';
 	    $e = '890';
+	    $f = '910';
 		$this->load->view('welcome_message');
 	}
 }
